@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/taftspencer/rccarcontroller/LightControlActivity.kt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/java/com/taftspencer/rccarcontroller/LightControlActivity.kt" />
+              <option name="originalContent" value="// Kotlin version removed. See LightControlActivity.java for the Java implementation." />
+              <option name="updatedContent" value="// Kotlin version removed. See LightControlActivity.java for the Java implementation." />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
